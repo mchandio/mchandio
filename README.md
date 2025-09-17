@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mchandio
-- 👀 I’m interested in Freelancing and Web Designing
-- 🌱 I’m currently learning Web Designing
+- 👀 I’m interested in Freelancing
+- 🌱 I’m currently working on CPJ (Cyber Programmng Jet) Computer Programming Language
 - 💞️ I’m looking to collaborate on Freelancing
 - 📫 You can reach me through My Email Address deo3880@gmail.com
 
